@@ -1,1 +1,1 @@
-web application app:app
+web: gunicornapp:app
